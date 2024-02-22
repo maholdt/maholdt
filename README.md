@@ -15,11 +15,3 @@
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
 
 <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
-
-
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maholdt&show_icons=true&theme=dark&locale=en&layout=compact" alt="maholdt" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maholdt&theme=dark" alt="maholdt" /></p>
